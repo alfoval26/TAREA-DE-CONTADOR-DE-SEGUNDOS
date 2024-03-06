@@ -1,0 +1,22 @@
+.counter-container {
+    text-align: center;
+  }
+  
+  .digit-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .digit {
+    font-size: 2rem;
+    margin: 0 0.5rem;
+    border: 1px solid #333;
+    padding: 0.5rem;
+  }
+  
+  .clock-icon {
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+  }
+  
